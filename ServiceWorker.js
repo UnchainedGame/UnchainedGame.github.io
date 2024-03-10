@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-2d Map Testing-1.0";
+const cacheName = "UnchainedDev-Unchained-1.0";
 const contentToCache = [
     "Build/web.loader.js",
-    "Build/web.framework.js",
-    "Build/web.data",
-    "Build/web.wasm",
+    "Build/web.framework.js.unityweb",
+    "Build/web.data.unityweb",
+    "Build/web.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
